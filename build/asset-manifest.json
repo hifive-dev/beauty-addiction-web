@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e156c6e8.css",
+    "main.js": "/static/js/main.3cade263.js",
+    "static/media/salon.jpeg": "/static/media/salon.c46be70a4438a03e69f6.jpeg",
+    "static/media/image4.jpeg": "/static/media/image4.0f2ee943715d9ef1cd42.jpeg",
+    "static/media/image3.jpeg": "/static/media/image3.819ed8d20c57a5807585.jpeg",
+    "static/media/banner_01.jpeg": "/static/media/banner_01.dba1258adcd95ef151dd.jpeg",
+    "static/media/image2.jpeg": "/static/media/image2.0de5d58c79fcd045662b.jpeg",
+    "static/media/massage.png": "/static/media/massage.85ea30bb3754e8358d1d.png",
+    "static/media/image5.jpeg": "/static/media/image5.638ba1f9a31b7d816084.jpeg",
+    "static/media/banner_02.jpeg": "/static/media/banner_02.a11b8eac050c847b8e27.jpeg",
+    "static/media/makeup.png": "/static/media/makeup.f466a3f1262d8035fd00.png",
+    "static/media/image6.jpeg": "/static/media/image6.1915f3a82048474dd3fc.jpeg",
+    "static/media/body.png": "/static/media/body.2ba804073ea6972971ed.png",
+    "static/media/logo.png": "/static/media/logo.3a6c217208721951e062.png",
+    "static/media/banner_03.jpeg": "/static/media/banner_03.8cb934b95b4d6a15d895.jpeg",
+    "static/media/nails.png": "/static/media/nails.2573b38a0363ff04cdd1.png",
+    "static/media/tickbox.png": "/static/media/tickbox.9a1e6383151f83127133.png",
+    "index.html": "/index.html",
+    "main.e156c6e8.css.map": "/static/css/main.e156c6e8.css.map",
+    "main.3cade263.js.map": "/static/js/main.3cade263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e156c6e8.css",
+    "static/js/main.3cade263.js"
+  ]
+}
